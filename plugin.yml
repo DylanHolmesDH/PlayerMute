@@ -1,0 +1,7 @@
+name: Mute
+main: me.KillerSmurf.Mute.Mute
+version: 0.0.1
+commands:
+    mute:
+        description: mute a person
+        usage: /mute
